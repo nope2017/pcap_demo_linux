@@ -1,1 +1,0 @@
-/usr/bin/cc     CMakeFiles/pcap_test.dir/main.c.o  -o pcap_test  -L/home/nope/test/pcap_test/3th/lib -rdynamic -ldl -lpcap -lpthread -Wl,-rpath,/home/nope/test/pcap_test/3th/lib: 

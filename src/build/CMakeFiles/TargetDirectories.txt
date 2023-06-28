@@ -1,7 +1,0 @@
-/home/nope/test/pcap_test/src/build/CMakeFiles/install.dir
-/home/nope/test/pcap_test/src/build/CMakeFiles/list_install_components.dir
-/home/nope/test/pcap_test/src/build/CMakeFiles/rebuild_cache.dir
-/home/nope/test/pcap_test/src/build/CMakeFiles/pcap_test.dir
-/home/nope/test/pcap_test/src/build/CMakeFiles/install/strip.dir
-/home/nope/test/pcap_test/src/build/CMakeFiles/install/local.dir
-/home/nope/test/pcap_test/src/build/CMakeFiles/edit_cache.dir
